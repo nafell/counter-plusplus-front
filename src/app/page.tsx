@@ -15,6 +15,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
+              $
               Cloud Run
             </Link>
             , a fully managed container that scales up and down with demand.
